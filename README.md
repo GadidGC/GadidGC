@@ -1,7 +1,5 @@
 <h1 align="center"><b>Hi, I'm Gabriel Gonza </b><img src="https://emojis.slackmojis.com/emojis/images/1643514370/15639/meow_wave.gif?1643514370" width="35"></h1>
 
-<br>
-
 ## 🚀 **About me**
 
 <br>
@@ -11,7 +9,7 @@
 - 🌱 Currently studying Computer Science at Universidad Nacional de San Agustín, Arequipa, Perú.
 - 💡 Passionate about driving business growth through innovative software solutions.
 
-<br><br>
+<br>
 
 ## 💻 <b>Skills</b>
 <br>
@@ -62,18 +60,12 @@
     ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br>
-
-</p>
 
 <br>
-<br>
+
 
 -----
 
-<br>
-
-<br>
 <br>
 
 ## 🤝 <b>Let's Connect!</b><img src="https://emojis.slackmojis.com/emojis/images/1614384494/15610/handshake.gif?1614384494" width ="80">
