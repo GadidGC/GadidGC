@@ -63,11 +63,6 @@
 
 <br>
 
-
------
-
-<br>
-
 ## 🤝 <b>Let's Connect!</b><img src="https://emojis.slackmojis.com/emojis/images/1614384494/15610/handshake.gif?1614384494" width ="80">
 <br>
 <div align='left'>
