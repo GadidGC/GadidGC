@@ -126,7 +126,7 @@
 <ul>
 
 <li>
-  <a href="https://www.linkedin.com/in/diego-portocarrero-espirilla-746a5817b/" target="_blank">Linkedin</a>
+  <a href="www.linkedin.com/in/gadidgc" target="_blank">Linkedin</a>
 </li>
 
 ---
