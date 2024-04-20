@@ -6,7 +6,7 @@
 
 - 🔥 Front-End Developer specializing in Natural Language Processing with over 2 years of experience.
 - 🏆 Led a 4-member team to a national victory in a startup contest by KOICA.
-- 🌱 Currently studying Computer Science at Universidad Nacional de San Agustín, Arequipa, Perú.
+- 🌱 Currently studying Machine Learning.
 - 💡 Passionate about driving business growth through innovative software solutions.
 
 <br>
