@@ -5,9 +5,9 @@
 <br>
 
 - 🔥 Front-End Developer specializing in Natural Language Processing with over 2 years of experience.
-- 🏆 Led a 4-member team to a national victory in a startup contest by KOICA.
+- 🏆 Led a 4-member team to a national victory in a startup contest by Korean Embassy.
 - 🌱 Currently studying Machine Learning.
-- 💡 Passionate about driving business growth through innovative software solutions.
+- 💡 Passionate about driving business growth through building great teams.
 
 <br>
 
